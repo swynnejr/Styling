@@ -1,0 +1,26 @@
+h1 {
+    color: cyan;
+    font-family: cursive;
+    font-weight: bolder;
+    background-color: black;
+}
+
+span {color: white;}
+
+h2 {
+    color:white;
+    background-color: blueviolet;
+    text-align: center;
+    font-family: monospace;
+    font-weight: lighter;
+    font-style: italic;
+}
+
+h3 {
+    color: purple;
+    background-color: lightblue;
+    text-align: right;
+    font-family:sans-serif;
+    text-decoration:underline;
+    font-weight: lighter;
+}
